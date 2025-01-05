@@ -1,0 +1,32 @@
+step 1 :- setup yor pc or system  for PHP , LARAVEL , XAMPP , NODE Npm 
+step 2 :-  clone this project in your system . (setup your laravel in your system)
+step 3 :- composer install 
+
+step 4 :- Clone the repo and cd into it
+
+step 5 :- In your terminal composer install
+step 6 :- Rename or copy .env.example file to .env
+step 7 :- php artisan key:generate
+step 8 :- Set your database credentials in your .env file
+step 9 :- Set your Braintree credentials in your .env file if you want to use PayPal
+step 10 :- Import db file(database/e-shop.sql) into your database (mysql,sql)
+step 11 :- npm install
+step 12 :- npm run watch
+step 13 :- run command[laravel file manager]:- php artisan storage:link
+step 14 :- Edit .env file :- remove APP_URL
+step 15 :- php artisan serve or use virtual host
+step 16 :- Visit localhost:8000 in your browser
+step 17 :- Visit /admin if you want to access the admin panel. Admin Email/Password: admin@gmail.com/1111. User Email/Password: user@gmail.com/1111
+
+
+
+
+if storage is alrready link so first of all  relink this by 
+rmdir public\storage
+php artisan storage:link
+
+
+
+
+by siddharth pathak
+Thank You so much for your time !!!
