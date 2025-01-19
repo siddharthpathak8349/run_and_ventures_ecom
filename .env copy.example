@@ -1,4 +1,4 @@
-APP_NAME="E-SHOP"
+APP_NAME="Run&ventures"
 APP_ENV=local
 APP_KEY=base64:bZVCQh9Z1xcSN5BU0NnsuHR73vkcPLnFtmA2HioSBNM=
 APP_DEBUG=true
